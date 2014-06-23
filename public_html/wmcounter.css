@@ -26,17 +26,18 @@ span#counter {
     font-size:1000%;
     font-weight:bold;
     }
-p#followus, p#translateit {
+p#upper-left, p#upper-right {
     position:absolute;
     margin:0;border:0;padding:0;
     top:10px;
+}
+p#upper-left {
+    left:10px;
     text-align:left;
 }
-p#followus {
-    left:10px;
-}
-p#translateit{
+p#upper-right{
     right:10px;
+    text-align:right;
 }
 p#donate, p#author, p#f11 {
     position:absolute;
