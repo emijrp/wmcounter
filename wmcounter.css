@@ -1,0 +1,58 @@
+body {
+    margin:0;border:0;padding:0;
+    font-family:monospace;
+    background: #fff;
+    color: #000;
+    text-align: center;
+}
+div#wrapper{
+    display:table;
+    width:100%;
+    height:100%;
+}
+div#content{
+    display:table-cell;vertical-align:middle;
+    background-image: url('wplogoreduced.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    height:100%;
+    }
+span#header, span#footer {
+    font-size:250%;
+    font-weight:bold;
+    }
+span#counter {
+    font-size:1000%;
+    font-weight:bold;
+    }
+p#followus, p#translateit {
+    position:absolute;
+    margin:0;border:0;padding:0;
+    top:10px;
+    text-align:left;
+}
+p#followus {
+    left:10px;
+}
+p#translateit{
+    right:10px;
+}
+p#donate, p#author, p#f11 {
+    position:absolute;
+    margin:0;border:0;padding:0;
+    bottom:10px;
+    }
+p#donate {
+    left:10px;
+    }
+p#author {
+    right:10px;
+    }
+p#f11 {
+    left:50%;
+    width:40em;
+    margin-left:-20em;
+    text-align:center;
+    bottom:30;
+    }
