@@ -5,4 +5,6 @@ A near real-time counter for all Wikimedia projects together. Pretty amazing to 
 
 See demo: http://tools.wmflabs.org/wmcounter/
 
+Follow it on Twitter: https://twitter.com/wmcounter
+
 ![alt text](https://raw.githubusercontent.com/emijrp/wmcounter/master/public_html/onebillion.png)
