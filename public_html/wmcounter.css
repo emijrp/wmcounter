@@ -5,6 +5,12 @@ body {
     color: #000;
     text-align: center;
 }
+a:link, a:visited{
+    text-decoration: none;
+}
+a:hover, a:active{
+    text-decoration: underline;
+}
 div#wrapper{
     display:table;
     width:100%;
