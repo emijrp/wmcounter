@@ -30,7 +30,7 @@
 
     <p id="donate"><a href="http://wikimediafoundation.org/wiki/Support_Wikipedia">Donate to Wikimedia Foundation</a></p>
     <p id="f11">Press F11 for fullscreen</p>
-    <p id="author">Developed by <a href="http://wikitech.wikimedia.org/wiki/User:Emijrp">emijrp</a> (Inspired by <a href="http://www.7is7.com/software/firefox/partycounter.html">7is7</a>)</p>
+    <p id="author">Developed by <a href="https://en.wikipedia.org/wiki/User:Emijrp">emijrp</a> (Inspired by <a href="http://www.7is7.com/software/firefox/partycounter.html">7is7</a>)</p>
 
     </div>
     </div>
