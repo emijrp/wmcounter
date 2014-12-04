@@ -13,6 +13,7 @@
     Join us on <a href="http://www.facebook.com/group.php?gid=287466429242">Facebook</a> and <br/>
     Chat with us at <a href="http://webchat.freenode.net/?randomnick=1&channels=wikimediacounter">Freenode</a><br/>-->
     1 Billionth edit <a href="onebillion.png">screenshot</a>!<br/>
+    In <a href="https://commons.wikimedia.org/wiki/Category:Wikimedia_projects_edits_counter">other conferences</a>
     </p>
 
     <p id="upper-right">
