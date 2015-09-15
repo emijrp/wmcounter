@@ -10,8 +10,8 @@
 
     <p id="upper-left">
     <!--
-    Join us on <a href="http://www.facebook.com/group.php?gid=287466429242">Facebook</a> and <br/>
-    Chat with us at <a href="http://webchat.freenode.net/?randomnick=1&channels=wikimediacounter">Freenode</a><br/>-->
+    Join us on <a href="//www.facebook.com/group.php?gid=287466429242">Facebook</a> and <br/>
+    Chat with us at <a href="//webchat.freenode.net/?randomnick=1&channels=wikimediacounter">Freenode</a><br/>-->
     1 Billionth edit <a href="onebillion.png">screenshot</a>!<br/>
     In <a href="//commons.wikimedia.org/wiki/Category:Wikimedia_projects_edits_counter">wiki conferences</a>
     </p>
