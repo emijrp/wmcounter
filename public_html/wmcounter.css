@@ -25,7 +25,7 @@ div#content{
     height:100%;
     }
 span#header, span#footer {
-    font-size:250%;
+    font-size:350%;
     font-weight:bold;
     }
 span#counter {
@@ -52,9 +52,11 @@ p#donate, p#author, p#f11 {
     }
 p#donate {
     left:10px;
+    display:none;
     }
 p#author {
     right:10px;
+    display:none;
     }
 p#f11 {
     left:50%;
@@ -62,4 +64,5 @@ p#f11 {
     margin-left:-20em;
     text-align:center;
     bottom:30;
+    display:none;
     }
