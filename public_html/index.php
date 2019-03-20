@@ -17,6 +17,11 @@
     </p>
 
     <p id="upper-right">
+    <!--<iframe src="https://tools.wmflabs.org/wikiradio" style="display: none;">
+        <p>Your browser does not support iframes.</p>
+    </iframe>
+    You are listening<br/>
+    <a href="https://tools.wmflabs.org/wikiradio"><b>wikiradio</b></a>!-->
     <!--<a href="//twitter.com/wmcounter">Follow us</a> on Twitter!<br/>-->
     <!--<a href="//en.wikipedia.org/wiki/User:Emijrp/Wikimedia_projects_edits_counter">Translate it</a>!-->
     </p>

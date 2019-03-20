@@ -7,7 +7,6 @@
     
 var timenow = new Date().getTime();
 var period = 20; // period update in miliseconds
-var editnow = editinit + ((timenow-timeinit)/1000) * editrate;
 var spliter = ",";
 var spliter_r = new RegExp(/(^|\s)(\d+)(\d{3})/);
 
@@ -344,7 +343,7 @@ function init() {
 
 function update() {
    timenow2 = new Date().getTime();
-   if (Math.round(((timenow2-timenow)/1000)+1) % 600 == 0) { window.setTimeout(window.location.reload(), 1100); } //refresh page
+   if (Math.round(((timenow2-timenow)/1000)+1) % 300 == 0) { window.setTimeout(window.location.reload(), 1100); } //refresh page
    editnow = editinit + (timenow2-timeinit) * editrate;
    editnowtext = ""+Math.round(editnow);
    for(var i=3; i<editnowtext.length; i+=3) {
@@ -368,8 +367,8 @@ function adjustSizes(){
         height=document.body.clientHeight;
     }
     document.getElementById('wrapper').style.height=(height-10)+'px';
-    document.getElementById('header').style.fontSize=width/40+'pt';
-    document.getElementById('footer').style.fontSize=width/40+'pt';
+    document.getElementById('header').style.fontSize=width/45+'pt';
+    document.getElementById('footer').style.fontSize=width/45+'pt';
     document.getElementById('counter').style.fontSize=width/12+'pt';
 }
 
